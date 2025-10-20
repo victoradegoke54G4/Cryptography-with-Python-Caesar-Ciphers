@@ -20,18 +20,6 @@ Non-alphabet characters remain unchanged, making the program practical and reada
 
 ---
 
-## 🧩 File Structure
-```
-
-├── main.py                  # Main program file (run this)
-├── ceasar_ascii_logo.py     # ASCII logo art displayed in CLI
-├── .gitignore               # Ignore unnecessary files
-└── README.md                # Project documentation
-
-````
-
----
-
 ## ⚙️ How to Run
 1. Clone the repo:
    ```bash
