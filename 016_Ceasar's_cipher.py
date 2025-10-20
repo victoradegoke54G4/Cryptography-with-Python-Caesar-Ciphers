@@ -1,4 +1,3 @@
-
 from ceasar_ascii_logo import logo
 
 class Ceasar_Cipher:
